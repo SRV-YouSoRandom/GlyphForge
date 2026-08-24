@@ -1,0 +1,68 @@
+{
+  "category": "warping",
+  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_generic\\warping.png",
+  "inference_time_seconds": 953.8922443999909,
+  "blocks": [
+    {
+      "label": "paragraph_title",
+      "content": "Who Am I?",
+      "bbox": [
+        1562,
+        282,
+        2296,
+        492
+      ]
+    },
+    {
+      "label": "text",
+      "content": "• Min-Te Sun (Peter) Sun",
+      "bbox": [
+        891,
+        631,
+        1918,
+        776
+      ]
+    },
+    {
+      "label": "text",
+      "content": "– An associate professor of Computer Science & Information Engineering, National Central University",
+      "bbox": [
+        1001,
+        695,
+        2857,
+        1001
+      ]
+    },
+    {
+      "label": "text",
+      "content": "- Studied in US for a long time\n(from 1993 ~ 2002)",
+      "bbox": [
+        1036,
+        987,
+        2123,
+        1213
+      ]
+    },
+    {
+      "label": "text",
+      "content": "- Worked as a CS professor at Auburn University, Alabama between 2002 and 2008 (before coming back to Taiwan)",
+      "bbox": [
+        1067,
+        1103,
+        2912,
+        1512
+      ]
+    },
+    {
+      "label": "text",
+      "content": "— Have taught CS courses in English for more than 10 years",
+      "bbox": [
+        1098,
+        1376,
+        2811,
+        1722
+      ]
+    }
+  ],
+  "text": "Who Am I?\n• Min-Te Sun (Peter) Sun\n– An associate professor of Computer Science & Information Engineering, National Central University\n- Studied in US for a long time\n(from 1993 ~ 2002)\n- Worked as a CS professor at Auburn University, Alabama between 2002 and 2008 (before coming back to Taiwan)\n— Have taught CS courses in English for more than 10 years"
+}

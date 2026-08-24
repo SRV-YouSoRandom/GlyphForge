@@ -1,0 +1,68 @@
+{
+  "category": "illumination",
+  "input_path": "D:\\mycode\\GlyphForge\\data\\benchmark\\Real5-OmniDocBench-Illumination\\PPT_1001115_eng_page_003.png",
+  "inference_time_seconds": 531.971366599988,
+  "blocks": [
+    {
+      "label": "paragraph_title",
+      "content": "Who Am I?",
+      "bbox": [
+        1586,
+        302,
+        2248,
+        438
+      ]
+    },
+    {
+      "label": "text",
+      "content": "• Min-Te Sun (Peter) Sun",
+      "bbox": [
+        843,
+        566,
+        1894,
+        678
+      ]
+    },
+    {
+      "label": "text",
+      "content": "– An associate professor of Computer Science & Information Engineering, National Central University",
+      "bbox": [
+        957,
+        706,
+        2874,
+        913
+      ]
+    },
+    {
+      "label": "text",
+      "content": "- Studied in US for a long time\n(from 1993 ~ 2002)",
+      "bbox": [
+        952,
+        931,
+        2081,
+        1134
+      ]
+    },
+    {
+      "label": "text",
+      "content": "– Worked as a CS professor at Auburn University, Alabama between 2002 and 2008 (before coming back to Taiwan)",
+      "bbox": [
+        945,
+        1161,
+        2962,
+        1475
+      ]
+    },
+    {
+      "label": "text",
+      "content": "— Have taught CS courses in English for more than 10 years",
+      "bbox": [
+        938,
+        1486,
+        2860,
+        1726
+      ]
+    }
+  ],
+  "text": "Who Am I?\n• Min-Te Sun (Peter) Sun\n– An associate professor of Computer Science & Information Engineering, National Central University\n- Studied in US for a long time\n(from 1993 ~ 2002)\n– Worked as a CS professor at Auburn University, Alabama between 2002 and 2008 (before coming back to Taiwan)\n— Have taught CS courses in English for more than 10 years"
+}

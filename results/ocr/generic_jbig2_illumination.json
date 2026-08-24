@@ -1,0 +1,48 @@
+{
+  "category": "illumination",
+  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_generic\\illumination.png",
+  "inference_time_seconds": 187.02510400000028,
+  "blocks": [
+    {
+      "label": "paragraph_title",
+      "content": "Sun (Peter) Sun",
+      "bbox": [
+        1145,
+        564,
+        1897,
+        681
+      ]
+    },
+    {
+      "label": "text",
+      "content": "In associate professor of Com\nInformation Engineering at the National",
+      "bbox": [
+        1066,
+        703,
+        2147,
+        909
+      ]
+    },
+    {
+      "label": "text",
+      "content": "Studied in US for\nfrom 1993 ~ 201",
+      "bbox": [
+        1044,
+        925,
+        1753,
+        1134
+      ]
+    },
+    {
+      "label": "text",
+      "content": "orked as a CS project at\nama between 2002 and\nan)",
+      "bbox": [
+        1113,
+        1159,
+        2073,
+        1498
+      ]
+    }
+  ],
+  "text": "Sun (Peter) Sun\nIn associate professor of Com\nInformation Engineering at the National\nStudied in US for\nfrom 1993 ~ 201\norked as a CS project at\nama between 2002 and\nan)"
+}
