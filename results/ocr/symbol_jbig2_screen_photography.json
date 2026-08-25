@@ -1,7 +1,7 @@
 {
   "category": "screen_photography",
-  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_generic\\screen_photography.png",
-  "inference_time_seconds": 650.7653812000062,
+  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_symbol\\screen_photography.png",
+  "inference_time_seconds": 611.9731819000444,
   "blocks": [
     {
       "label": "paragraph_title",

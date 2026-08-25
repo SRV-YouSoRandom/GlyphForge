@@ -1,7 +1,7 @@
 {
   "category": "illumination",
-  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_generic\\illumination.png",
-  "inference_time_seconds": 194.58317540001008,
+  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_symbol\\illumination.png",
+  "inference_time_seconds": 186.43664269999135,
   "blocks": [
     {
       "label": "paragraph_title",

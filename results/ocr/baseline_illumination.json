@@ -1,7 +1,7 @@
 {
   "category": "illumination",
   "input_path": "D:\\mycode\\GlyphForge\\data\\benchmark\\Real5-OmniDocBench-Illumination\\PPT_1001115_eng_page_003.png",
-  "inference_time_seconds": 531.971366599988,
+  "inference_time_seconds": 541.6197264999792,
   "blocks": [
     {
       "label": "paragraph_title",

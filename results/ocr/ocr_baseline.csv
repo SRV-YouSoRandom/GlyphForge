@@ -1,6 +1,6 @@
 category,image,inference_time_seconds,block_count,character_count,word_count
-scanning,PPT_1001115_eng_page_003.png,258.10673920001136,6,354,64
-warping,PPT_1001115_eng_page_003.png,711.062288199988,6,354,64
-screen_photography,PPT_1001115_eng_page_003.png,623.8070968999818,6,354,64
-illumination,PPT_1001115_eng_page_003.png,531.971366599988,6,354,64
-skew,PPT_1001115_eng_page_003.png,1659.7241749999812,6,352,63
+scanning,PPT_1001115_eng_page_003.png,275.4391168000002,6,354,64
+warping,PPT_1001115_eng_page_003.png,712.5832953999925,6,354,64
+screen_photography,PPT_1001115_eng_page_003.png,638.7992350999848,6,354,64
+illumination,PPT_1001115_eng_page_003.png,541.6197264999792,6,354,64
+skew,PPT_1001115_eng_page_003.png,1713.6052188999893,6,352,63

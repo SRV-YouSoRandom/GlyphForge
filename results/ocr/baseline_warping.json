@@ -1,7 +1,7 @@
 {
   "category": "warping",
   "input_path": "D:\\mycode\\GlyphForge\\data\\benchmark\\Real5-OmniDocBench-Warping\\PPT_1001115_eng_page_003.png",
-  "inference_time_seconds": 711.062288199988,
+  "inference_time_seconds": 712.5832953999925,
   "blocks": [
     {
       "label": "paragraph_title",

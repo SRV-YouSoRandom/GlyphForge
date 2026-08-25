@@ -1,7 +1,7 @@
 {
   "category": "scanning",
   "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_generic\\scanning.png",
-  "inference_time_seconds": 360.1958353999944,
+  "inference_time_seconds": 262.992166800017,
   "blocks": [
     {
       "label": "paragraph_title",

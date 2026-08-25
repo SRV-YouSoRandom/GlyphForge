@@ -1,7 +1,7 @@
 {
   "category": "skew",
   "input_path": "D:\\mycode\\GlyphForge\\data\\benchmark\\Real5-OmniDocBench-Skew\\PPT_1001115_eng_page_003.png",
-  "inference_time_seconds": 1659.7241749999812,
+  "inference_time_seconds": 1713.6052188999893,
   "blocks": [
     {
       "label": "paragraph_title",

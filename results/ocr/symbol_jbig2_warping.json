@@ -1,7 +1,7 @@
 {
   "category": "warping",
-  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_generic\\warping.png",
-  "inference_time_seconds": 744.7094362000062,
+  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_symbol\\warping.png",
+  "inference_time_seconds": 709.0042036999948,
   "blocks": [
     {
       "label": "paragraph_title",

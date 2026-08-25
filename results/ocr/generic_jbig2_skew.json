@@ -1,0 +1,68 @@
+{
+  "category": "skew",
+  "input_path": "D:\\mycode\\GlyphForge\\results\\ocr\\compressed\\jbig2_generic\\skew.png",
+  "inference_time_seconds": 1434.4642708999745,
+  "blocks": [
+    {
+      "label": "paragraph_title",
+      "content": "Who Am I?",
+      "bbox": [
+        1198,
+        479,
+        2088,
+        745
+      ]
+    },
+    {
+      "label": "text",
+      "content": "• Min-Te Sun (Peter) Sun",
+      "bbox": [
+        184,
+        834,
+        1687,
+        1170
+      ]
+    },
+    {
+      "label": "text",
+      "content": "– An associate professor of Computer Science & Information Engineering, National Central University",
+      "bbox": [
+        337,
+        784,
+        3123,
+        1424
+      ]
+    },
+    {
+      "label": "text",
+      "content": "- Studied in US for a long time (from 1993 ~ 2002)",
+      "bbox": [
+        337,
+        1183,
+        2060,
+        1738
+      ]
+    },
+    {
+      "label": "text",
+      "content": "- Worked as a CS professor at Auburn University, Alabama between 2002 and 2008 (before coming back to Taiwan)",
+      "bbox": [
+        329,
+        1265,
+        3510,
+        2228
+      ]
+    },
+    {
+      "label": "text",
+      "content": "sh for more than 10",
+      "bbox": [
+        2387,
+        1677,
+        3463,
+        2042
+      ]
+    }
+  ],
+  "text": "Who Am I?\n• Min-Te Sun (Peter) Sun\n– An associate professor of Computer Science & Information Engineering, National Central University\n- Studied in US for a long time (from 1993 ~ 2002)\n- Worked as a CS professor at Auburn University, Alabama between 2002 and 2008 (before coming back to Taiwan)\nsh for more than 10"
+}

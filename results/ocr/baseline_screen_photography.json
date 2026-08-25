@@ -1,7 +1,7 @@
 {
   "category": "screen_photography",
   "input_path": "D:\\mycode\\GlyphForge\\data\\benchmark\\Real5-OmniDocBench-Screen-Photography\\PPT_1001115_eng_page_003.png",
-  "inference_time_seconds": 623.8070968999818,
+  "inference_time_seconds": 638.7992350999848,
   "blocks": [
     {
       "label": "paragraph_title",
